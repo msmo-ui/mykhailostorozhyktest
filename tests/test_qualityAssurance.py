@@ -19,17 +19,33 @@ class TestQualityAssurance:
         self.driver.maximize_window()
         self.driver.get(self.baseURL + "/careers/quality-assurance/")
         self.qa = QualityAssurance(self.driver)
-        self.qa.click_see_all_jobs()
-        self.qa.scroll_to_element_y_with_delay(700)
-        self.qa.click_drop_down_filter_by_location()
-        self.qa.click_drop_down_filter_by_location_element_istanbul_turkey()
-        job_list = self.qa.collected_list_of_text_elements_position_location()
+        job_list = self.qa.click_see_all_jobs().scroll_to_element_y_with_delay(700).click_drop_down_filter_by_location()\
+            .click_drop_down_filter_by_location_element_istanbul_turkey()\
+            .collected_list_of_text_elements_position_location()
 
-        try:
-            assert job_list is not None
-            self.driver.close()
-            self.logger.info("************ Quality Assurance Job List has elements ************")  # 👉️ Oulu
-        except KeyError:
-            self.driver.save_screenshot(".\\Screenshots\\" + "test_qualityAssurance.png")
-            self.driver.close()
-            self.logger.error("************ Quality Assurance Job List has no elements ************")
+        expected_text = "Istanbul, Turkey"
+
+        for job in job_list:
+            assert job.text == expected_text, "wrong text %s, expected %s" % (job.text, expected_text)
+
+    @pytest.mark.sanity
+    @pytest.mark.regression
+    def test_check_redirect(self, setup):
+        self.logger.info("************ Test_001_Quality_Assurance ************")
+        self.logger.info("************ Verifying Quality Assurance Job List ************")
+        self.driver = setup
+        self.driver.maximize_window()
+        self.driver.get(self.baseURL + "/careers/quality-assurance/")
+        self.qa = QualityAssurance(self.driver)
+        url=self.qa.click_see_all_jobs().scroll_to_element_y_with_delay(700).click_drop_down_filter_by_location()\
+            .click_drop_down_filter_by_location_element_istanbul_turkey().click_view_role()
+
+        assert "https://jobs.lever.co/" in url
+
+
+
+
+
+
+
+
