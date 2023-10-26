@@ -107,3 +107,176 @@
 2023-10-25 20:29:43 PM: INFO: ************ Verifying Quality Assurance Job List ************
 2023-10-25 20:37:17 PM: INFO: ************ Test_001_Career ************
 2023-10-25 20:37:17 PM: INFO: ************ Verifying Careers Page Teams Element ************
+2023-10-25 21:07:58 PM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-25 21:07:58 PM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-25 21:08:10 PM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-25 21:08:10 PM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 06:56:14 AM: INFO: ************ Test_002_Home ************
+2023-10-26 06:56:14 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 06:56:18 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 06:56:28 AM: INFO: ************ Test_002_Home ************
+2023-10-26 06:56:28 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 06:56:31 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 06:58:36 AM: INFO: ************ Test_002_Home ************
+2023-10-26 06:58:36 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 06:58:39 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 07:00:15 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:00:15 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:00:19 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 07:00:44 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:00:44 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:00:47 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 07:01:21 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:01:21 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:33:13 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:33:13 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:33:18 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 07:34:17 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:34:17 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:34:22 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 07:34:30 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:34:30 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:34:34 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 07:39:52 AM: INFO: ************ Test_002_Home ************
+2023-10-26 07:39:52 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 07:39:56 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 08:40:49 AM: INFO: ************ Test_001_Home ************
+2023-10-26 08:40:49 AM: INFO: ************ Verifying Home Page Title ************
+2023-10-26 08:40:53 AM: INFO: ************ Home Page Title test is passed ************
+2023-10-26 08:41:04 AM: INFO: ************ Test_002_Home ************
+2023-10-26 08:41:04 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 08:43:10 AM: INFO: ************ Test_002_Home ************
+2023-10-26 08:43:10 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 08:44:55 AM: INFO: ************ Test_002_Home ************
+2023-10-26 08:44:55 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:05:23 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:05:23 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:06:47 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:06:47 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:08:19 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:08:19 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:09:17 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:09:17 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:10:22 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:10:22 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:18:02 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:18:02 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:18:17 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:18:17 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:19:55 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:19:55 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:20:51 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:20:51 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:25:19 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:25:19 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:31:52 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:31:52 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:32:21 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:32:21 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:32:32 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:32:32 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:33:11 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:33:11 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:33:46 AM: INFO: ************ Test_001_Home ************
+2023-10-26 09:33:46 AM: INFO: ************ Verifying Home Page Title ************
+2023-10-26 09:33:49 AM: INFO: ************ Home Page Title test is passed ************
+2023-10-26 09:34:54 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:34:54 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:35:37 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:35:37 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:36:48 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:36:48 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:36:52 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 09:37:33 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:37:33 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:38:05 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:38:05 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:42:23 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:42:23 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:43:23 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:43:23 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:45:46 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:45:46 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:45:51 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 09:47:06 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:47:06 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:47:10 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 09:49:35 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:49:35 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:51:38 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:51:38 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:52:28 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:52:28 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:52:59 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:52:59 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:53:03 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 09:53:30 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:53:30 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:53:34 AM: ERROR: ************ Careers Page Title test is failed ************
+2023-10-26 09:54:07 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:54:07 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:57:39 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:57:39 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:57:44 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 09:59:08 AM: INFO: ************ Test_001_Home ************
+2023-10-26 09:59:08 AM: INFO: ************ Verifying Home Page Title ************
+2023-10-26 09:59:11 AM: INFO: ************ Home Page Title test is passed ************
+2023-10-26 09:59:13 AM: INFO: ************ Test_002_Home ************
+2023-10-26 09:59:13 AM: INFO: ************ Verifying Careers Page Title ************
+2023-10-26 09:59:18 AM: INFO: ************ Careers Page Title test is passed ************
+2023-10-26 10:02:52 AM: INFO: ************ Test_002_Career ************
+2023-10-26 10:02:52 AM: INFO: ************ Verifying Careers Page Life at Insider Element ************
+2023-10-26 10:02:56 AM: INFO: ************ Careers Page life_insider == Life at Insider text ************
+2023-10-26 10:03:49 AM: INFO: ************ Test_001_Career ************
+2023-10-26 10:03:49 AM: INFO: ************ Verifying Careers Page Teams Element ************
+2023-10-26 10:03:53 AM: INFO: ************ Careers Page See all teams has teams in the text ************
+2023-10-26 10:03:55 AM: INFO: ************ Test_002_Career ************
+2023-10-26 10:03:55 AM: INFO: ************ Verifying Careers Page Life at Insider Element ************
+2023-10-26 10:03:59 AM: INFO: ************ Careers Page life_insider == Life at Insider text ************
+2023-10-26 10:11:34 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:11:34 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:14:02 AM: INFO: ************ Test_002_Quality_Assurance ************
+2023-10-26 10:14:02 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Location ************
+2023-10-26 10:18:08 AM: INFO: ************ Test_003_Quality_Assurance ************
+2023-10-26 10:18:08 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Department  ************
+2023-10-26 10:20:50 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:20:50 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:21:31 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:21:31 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:22:29 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:22:29 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:24:36 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:24:36 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:25:18 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:25:18 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:26:28 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:26:28 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:26:54 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:26:54 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:27:04 AM: INFO: ************ Quality Assurance Job List has elements ************
+2023-10-26 10:27:05 AM: INFO: ************ Test_002_Quality_Assurance ************
+2023-10-26 10:27:05 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Location ************
+2023-10-26 10:27:16 AM: INFO: ************ Test_003_Quality_Assurance ************
+2023-10-26 10:27:16 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Department  ************
+2023-10-26 10:27:28 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:27:28 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:28:33 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:28:33 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:28:44 AM: INFO: ************ Quality Assurance Job List has elements ************
+2023-10-26 10:28:51 AM: INFO: ************ Test_002_Quality_Assurance ************
+2023-10-26 10:28:51 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Location ************
+2023-10-26 10:29:24 AM: INFO: ************ Test_002_Quality_Assurance ************
+2023-10-26 10:29:24 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Location ************
+2023-10-26 10:29:47 AM: INFO: ************ Test_003_Quality_Assurance ************
+2023-10-26 10:29:47 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Department  ************
+2023-10-26 10:32:07 AM: INFO: ************ Test_003_Quality_Assurance ************
+2023-10-26 10:32:07 AM: INFO: ************ Verifying Quality Assurance Clicking on the View Role redirects to the expected URL ************
+2023-10-26 10:32:45 AM: INFO: ************ Test_001_Quality_Assurance ************
+2023-10-26 10:32:45 AM: INFO: ************ Verifying Quality Assurance Job List ************
+2023-10-26 10:32:57 AM: INFO: ************ Quality Assurance Job List has elements ************
+2023-10-26 10:32:59 AM: INFO: ************ Test_002_Quality_Assurance ************
+2023-10-26 10:32:59 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Location ************
+2023-10-26 10:33:12 AM: INFO: ************ Test_003_Quality_Assurance ************
+2023-10-26 10:33:12 AM: INFO: ************ Verifying Quality Assurance Job List Contains Expected Department  ************
+2023-10-26 10:33:26 AM: INFO: ************ Test_003_Quality_Assurance ************
+2023-10-26 10:33:26 AM: INFO: ************ Verifying Quality Assurance Clicking on the View Role redirects to the expected URL ************

@@ -18,8 +18,7 @@ class TestCareer:
         self.driver.maximize_window()
         self.driver.get(self.baseURL + "/careers/")
         self.cp = CareersPage(self.driver)
-        self.cp.scroll_to_element_y(2800)
-        load_more = self.cp.find_load_more_button().text
+        load_more = self.cp.scroll_to_element_y(2800).find_load_more_button().text
 
         if load_more.__contains__("teams"):
             assert True
@@ -39,8 +38,7 @@ class TestCareer:
         self.driver.maximize_window()
         self.driver.get(self.baseURL + "/careers/")
         self.cp = CareersPage(self.driver)
-        self.cp.scroll_to_element_y(3800)
-        life_insider = self.cp.find_life_at_insider().text
+        life_insider = self.cp.scroll_to_element_y(3800).find_life_at_insider().text
 
         if life_insider == "Life at Insider":
             assert True

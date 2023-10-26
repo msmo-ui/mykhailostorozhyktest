@@ -2,26 +2,16 @@ from time import sleep
 
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
-
 from selenium.webdriver.remote.webelement import WebElement
-from typing import List
-from selenium.webdriver.common.keys import Keys
 
 
 class QualityAssurance:
     button_see_all_jobs = "//div[contains(@class, 'row')]/a"
     drop_down_filter_by_location = "//span[@title = 'All']"
     drop_down_filter_by_location_element_istanbul_turkey = "//li[contains(@id, 'Istanbul, Turkey')]"
-    drop_down_filter_by_department = "//span[@title = 'Quality Assurance']"
-    wrapper_element_for_job_opportunities = "//div[@class = 'position-list-item-wrapper bg-light']"
     text_inside_wrapper_position_location = "//div[@class = 'position-list-item-wrapper bg-light']/div"
     text_inside_wrapper_position_department = "//div[@class = 'position-list-item-wrapper bg-light']/span"
-    iframe_inside_wrapper_position_department = "//div[@class = 'position-list-item-wrapper bg-light']/span"
-
     view_role_element_1 = "//html/body/section[3]/div/div/div[2]/div[1]/div/a"
-    first_element = "//html/body/section[3]/div/div/div[2]/div[1]/div"
-
-    button_only_necessary_cookies = "//div[contains(@class,  'row')]/a"
 
     def __init__(self, driver):
         self.driver = driver
@@ -52,12 +42,14 @@ class QualityAssurance:
         position_locations_elements = self.driver.find_elements("xpath", self.text_inside_wrapper_position_location)
         return position_locations_elements
 
+    def collected_list_of_text_elements_position_department(self) -> list[WebElement]:
+        position_locations_elements = self.driver.find_elements("xpath", self.text_inside_wrapper_position_department)
+        return position_locations_elements
+
     def click_view_role(self):
         sleep(3)
         self.driver.find_element("xpath", self.view_role_element_1)
         self.driver.find_element("xpath", self.view_role_element_1).click()
         sleep(3)
-
         self.driver.switch_to.window(self.driver.window_handles[1])
-
         return self.driver.current_url

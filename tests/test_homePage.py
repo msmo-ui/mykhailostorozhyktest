@@ -38,8 +38,7 @@ class TestHome:
         self.driver.maximize_window()
         self.driver.get(self.baseURL)
         self.hp = HomePage(self.driver)
-        self.hp.click_header_menu_element()
-        self.hp.click_sub_menu_header_element()
+        self.hp.click_header_menu_element().click_sub_menu_header_element()
         self.cp = CareersPage(self.driver)
         act_title = self.driver.title
 

@@ -21,6 +21,7 @@ class CareersPage:
             .scroll_from_origin(scroll_origin, 0, delta_y) \
             .perform()
         sleep(0.5)
+        return self
 
     def find_load_more_button(self):
         load_more = self.driver.find_element("xpath", self.button_teams_load_more)
